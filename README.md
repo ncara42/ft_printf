@@ -159,3 +159,14 @@ Compilar y ejecutar:
 gcc -Wall -Wextra -Werror main.c -L. -lftprintf -o test
 ./test
 ```
+
+---
+
+## Información de Contacto
+
+**GitHub:** [ncara42](https://github.com/ncara42)  
+**42 Network:** [42 Madrid](https://www.42madrid.com/)
+
+---
+
+*Documento para fines de portfolio profesional. Todos los ejercicios fueron completados de forma individual siguiendo la normativa y valores de 42.*
