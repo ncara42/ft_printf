@@ -111,7 +111,7 @@ int main(void)
 ```
 Carácter: A
 Cadena: Hola, mundo!
-Puntero: 0x7ffeeb2a3a4c
+Puntero: 0x7ffeeb2a3a4c  (la dirección variará en cada ejecución)
 Decimal: 42
 Entero: -42
 Sin signo: 4294967295
