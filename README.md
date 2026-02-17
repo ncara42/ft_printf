@@ -1,6 +1,12 @@
 # ft_printf
 
-Una reimplementación de la función `printf` de la biblioteca estándar de C, desarrollada como parte del currículum de 42.
+
+**Estudiante:** ncaravac  
+**Campus:** 42 Madrid, España <br>
+**Período:** Diciembre 2025  
+**Lenguaje:** C  
+
+---
 
 ## Descripción
 
