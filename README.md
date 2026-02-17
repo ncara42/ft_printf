@@ -10,7 +10,7 @@
 
 ## Descripción
 
-**ft_printf** es una función personalizada que replica el comportamiento de la función `printf` estándar de C. Este proyecto forma parte de los ejercicios fundamentales de 42 School y tiene como objetivo comprender en profundidad el funcionamiento de las funciones variádicas, el formateo de cadenas y la gestión de diferentes tipos de datos en C.
+**ft_printf** es una función personalizada que replica el comportamiento de la función `printf` estándar de C. Este proyecto forma parte de los ejercicios fundamentales de 42 y tiene como objetivo comprender en profundidad el funcionamiento de las funciones variádicas, el formateo de cadenas y la gestión de diferentes tipos de datos en C.
 
 La implementación maneja múltiples especificadores de conversión y devuelve el número total de caracteres impresos, tal como lo hace la función original `printf`.
 
